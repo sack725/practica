@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+.saludo{
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+.foto{
+    width: 23rem;
+    height: auto;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 3rem;
+    padding: .5rem;
+    text-align: center;
+}
